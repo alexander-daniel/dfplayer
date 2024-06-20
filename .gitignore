@@ -1,0 +1,4 @@
+bundle.js
+node_modules/*
+8.log
+*.DS_Store
